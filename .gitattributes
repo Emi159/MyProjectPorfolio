@@ -1,0 +1,6 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+NLP[[:space:]]final/ATML_TeamBeam.zip filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Real[[:space:]]time[[:space:]]project/Idtradeanalysis.csv filter=lfs diff=lfs merge=lfs -text
+Real[[:space:]]time[[:space:]]project/all_data_df.csv filter=lfs diff=lfs merge=lfs -text
